@@ -1,0 +1,20 @@
+{
+  "name": "32-days-coding",
+  "version": "1.0.0",
+  "description": "solve q94, q95, q96",
+  "main": "index.js",
+  "type": "module",
+  "bin":"q94.js,q95.js,q96.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "danish noor",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
