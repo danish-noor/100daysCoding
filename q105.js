@@ -3,3 +3,4 @@ function getDiceRoll() {
     return Math.floor(Math.random() * 6) + 1;
 }
 console.log(getDiceRoll());
+export {};
