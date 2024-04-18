@@ -1,0 +1,1 @@
+export const fatherName:string = "Noor ud din";
